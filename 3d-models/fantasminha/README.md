@@ -2,4 +2,4 @@
 
 
 
-![](imgs/fantasminha.png)
+![](imgs/fantasminha.jpeg)
